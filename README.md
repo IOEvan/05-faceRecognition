@@ -14,7 +14,7 @@
 
 #### 3、参考链接  
 > 由于过于仓促，参考的东西太多，可能会遗漏，如有发现请告知。  
-> [FaceNet项目](https://github.com/davidsandberg/facenet)；  
-> [Dlib_face_recognition_from_camera-master ](https://download.csdn.net/download/weixin_41600500/11012807)：项目代码可以找我免费要；  
-> [tf_facenet](https://github.com/MrZhousf/tf_facenet);  
-> [Face-Recognition-Attendance-System]：这里把地址忘了，有发现相同的请告知；
++ [FaceNet项目](https://github.com/davidsandberg/facenet)；  
++ [Dlib_face_recognition_from_camera-master ](https://download.csdn.net/download/weixin_41600500/11012807)：项目代码可以找我免费要；  
++ [tf_facenet](https://github.com/MrZhousf/tf_facenet);  
++ [Face-Recognition-Attendance-System]：这里把地址忘了，有发现相同的请告知；
