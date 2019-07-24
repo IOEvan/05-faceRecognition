@@ -18,3 +18,8 @@
 + [Dlib_face_recognition_from_camera-master ](https://download.csdn.net/download/weixin_41600500/11012807)：项目代码可以找我免费要；  
 + [tf_facenet](https://github.com/MrZhousf/tf_facenet);  
 + [Face-Recognition-Attendance-System]：这里把地址忘了，有发现相同的请告知；
+
+#### 4、TODO  
++ 待有时间把整个流程说一下；  
++ Facenet训练使用过程；  
++ 数据库说明；
