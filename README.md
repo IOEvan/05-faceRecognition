@@ -20,6 +20,7 @@
 + [Face-Recognition-Attendance-System]：这里把地址忘了，有发现相同的请告知；
 
 #### 4、TODO  
++ exe文件生成；
 + 待有时间把整个流程说一下；  
 + Facenet训练使用过程；  
 + 数据库说明；
