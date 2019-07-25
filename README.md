@@ -26,3 +26,4 @@
 + 数据库说明；
 
 #### 5、实现的效果  
+[link](https://github.com/IOEvan/05-faceRecognition/blob/master/faceRecognition/result/show.mp4)
