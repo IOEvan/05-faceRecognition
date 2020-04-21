@@ -56,7 +56,7 @@ def send_mail_to_test(context):
         'port': 25,
         'subject': time.strftime('%Y-%m-%d', time.localtime(time.time())) + ' 考勤结果',
         'username': 'NameIsEvan@126.com',
-        'password': '098poilkjmnb',
+        'password': '*********',
         'text': context}
     )
 
