@@ -14,13 +14,13 @@ def send_mail(config):
 
     message = MIMEMultipart()
     message["Accept-Charset"] = "ISO-8859-1,utf-8"
-    message['From'] = 'NameIsEvan@126.com'
+    message['From'] = 'xxx@126.com'
 
     message['To'] = ','.join(config['to'])
     message['CC'] = ','.join(config['cc'])
     message['Subject'] = config['subject']
     message['Date'] = time.ctime(time.time())
-    message['Reply-To'] = '1071387983@qq.com'
+    message['Reply-To'] = 'xxx@qq.com'
     message['X-Priority'] = '3'
     message['X-MSMail-Priority'] = 'Normal'
     if config['text']:
@@ -33,7 +33,7 @@ def send_mail(config):
 
     smtp = SMTP(config['server'], config['port'])
 
-    username = 'NameIsEvan@126.com'
+    username = 'xxx@126.com'
     smtp.login(username, '098poilkjmnb')
     while True:
         try:
@@ -50,8 +50,8 @@ def send_mail(config):
 
 def send_mail_to_test(context):
     send_mail({
-        'to': ["NameIsEvan@126.com"],
-        'cc': ['1071387983@qq.com'],
+        'to': ["xxx@126.com"],
+        'cc': ['xxxx@qq.com'],
         'server': 'smtp.126.com',
         'port': 25,
         'subject': time.strftime('%Y-%m-%d', time.localtime(time.time())) + ' 考勤结果',
